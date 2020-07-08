@@ -2,7 +2,6 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
 https://dev.azure.com/deepuaz400/Github%20Project/_apis/build/status/deepuaz400.calculator?branchName=master
 
 The project contains a simple node.js application that exposes REST APIs
